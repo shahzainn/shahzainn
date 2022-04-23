@@ -8,6 +8,8 @@
 
 ✈️ I love **traveling** too. An ideal day for me would be exploring a new area (preferably on public transport!).
 
+🏎️ Best sport in the world? **Formula One**.
+
 ## 🏅 Achievements
 
 -   ⏫ **Rising Talent** at _Aeronus Interactive_ (July 2021)
