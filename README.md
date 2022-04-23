@@ -1,6 +1,6 @@
 ## <👋 Hello World! />
 
-🎓 I am Shahzain Arshad, an aspiring **Full Stack Developer** (specializing in **React Applications**) and a **renowned** UI designer.
+🎓 I am Shahzain Arshad, an aspiring **Full Stack Developer** (specializing in **React Applications**) and an **experienced** UI designer.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** for the benefit of the community and have contributed to projects such as **Kanvr** and **Terminal**. I'm really enthusiastic about learning of new technologies (no matter how difficult!). In 2021, I began to hone my skills in Python and also began the arduous process of learning C++ (which I am proud to announce is going well)!
 
