@@ -12,7 +12,7 @@
 
 ## 🏅 Achievements
 
--   ⏫ **Rising Talent** at _Aeronus Interactive_ (July 2021)
+-   ⏫ **Best Upcoming UI Designer** at _Skyline Interactive_ (July 2021)
 -   🏆 **Top Rated** at _Skyline Technologies_ (September 2020)
 -   ⭐ **Global rank 2000** at _Google Kickstart 2022 Round A_ (March 2022)
 -   🤝 **Hackathon Participant** for _ROBLOX_ (October 2019)
