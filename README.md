@@ -2,7 +2,7 @@
 
 🎓 I am Shahzain Arshad, an aspiring **Full Stack Developer** (specializing in **React Applications**) and an **experienced** UI designer.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** for the benefit of the community and have contributed to projects such as **Kanvr** and **Terminal**. I'm really enthusiastic about learning of new technologies (no matter how difficult!). In 2021, I began to hone my skills in Python and also began the arduous process of learning C++ (which I am proud to announce is going well)!
+👨‍💻 I enjoy contributing to **Open Source Projects** for the benefit of the community and have contributed to projects such as **Kanvr** and **Terminal**. I'm really enthusiastic about learning of new technologies (no matter how difficult!). In 2021, I began to hone my skills in Python and also began the process of learning C++ (which I am proud to announce is going well)!
 
 🎸 Away from the screen, I also enjoy pushing myself to learn new skills. My hobbies range from **competitive coding**, **playing games** and **touchtyping**. I'm also an avid transport enthusiast - fascinated with everything to do with transport and the way it allows people to enjoy freedom of movement at a low cost!
 
