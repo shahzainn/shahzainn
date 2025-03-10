@@ -1,6 +1,6 @@
 ## <👋 Hello World! />
 
-🎓 I am Shahzain Arshad, an aspiring **Full Stack Developer** (specializing in **React Applications**) and an **experienced** UI designer.
+🎓 Hey! I'm Shahzain, a full stack developer and degree apprentice at Barclays.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** for the benefit of the community and have contributed to projects such as **Kanvr** and **Terminal**. I'm really enthusiastic about learning of new technologies (no matter how difficult!). In 2021, I began to hone my skills in Python and also began the process of learning C++ (which I am proud to announce is going well)!
 
@@ -9,13 +9,6 @@
 ✈️ I love **traveling** too. An ideal day for me would be exploring a new area (preferably on public transport!).
 
 🏎️ Best sport in the world? **Formula One**.
-
-## 🏅 Achievements
-
--   ⏫ **Best Upcoming UI Designer** at _Skyline Interactive_ (July 2021)
--   🏆 **Head Developer** at _Skyline Technologies_ (September 2020)
--   ⭐ **Global rank 2000** at _Google Kickstart 2022 Round A_ (March 2022)
--   🤝 **Hackathon Participant** for _ROBLOX_ (October 2019)
 
 ## 🛠️ Skills
 
