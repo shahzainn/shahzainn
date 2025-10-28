@@ -1,41 +1,18 @@
-## <👋 Hello World! />
+## was going to write hello world but that's too cliche
 
-🎓 Hey! I'm Shahzain, a full stack developer and degree apprentice at Barclays.
+hey, i'm shahzain - i like to think of myself as a 10x dev but given how many times i've taken down prod that's closer to 0.1x lol
 
-👨‍💻 I enjoy contributing to **Open Source Projects** for the benefit of the community and have contributed to projects such as **Kanvr** and **Terminal**. I'm really enthusiastic about learning of new technologies (no matter how difficult!). In 2021, I began to hone my skills in Python and also began the process of learning C++ (which I am proud to announce is going well)!
+i work as a software engineer at barclays in the uk - building and maintaining full-stack compliance tooling for the bank. i kinda funnelled myself into the whole webdev javascript redditor engineer from when i was a kid — something about building websites really intriguied me (probably from my background as a roblox dev). now that ai has taken my job, i'm trying (unsucessfully so far) to pivot to low-level systems engineering.
 
-🎸 Away from the screen, I also enjoy pushing myself to learn new skills. My hobbies range from **competitive coding**, **playing games** and **touchtyping**. I'm also an avid transport enthusiast - fascinated with everything to do with transport and the way it allows people to enjoy freedom of movement at a low cost!
+you'll probably see various side projects prefixed with "kyro", that was my digital alias, if you will, when i was a kid scared of getting doxxed. i like building things that solve real, tangible problems. for example, i briefly attempted to start my own airline because i saw a gap; i built a full education saas because my school was struggling with their current one. i guess i have the 10x mentality but the 0.1x execution — working on it
 
-✈️ I love **traveling** too. An ideal day for me would be exploring a new area (preferably on public transport!).
+anyways here's my socials if you'd like to get in touch:
 
-🏎️ Best sport in the world? **Formula One**.
+---
+shahzainarshad06@gmail[]().com - email
 
-## 🛠️ Skills
+<span>linkedin.com/in/shahzainarshad/</span> - linkedin (shameless plug)
 
-### Software
+@shahzainn. - discord
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Languages
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-### Front-End Development
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Design Tools
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-### Thanks for reading - have a good day!
+shxhzain - insta (if you must)
