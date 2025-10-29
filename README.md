@@ -6,7 +6,7 @@ i work as a software engineer at barclays in the uk - building and maintaining f
 
 you'll probably see various side projects prefixed with "kyro", that was my digital alias, if you will, when i was a kid scared of getting doxxed. i like building things that solve real, tangible problems. for example, i briefly attempted to start my own airline because i saw a gap; i built a full education saas because my school was struggling with their current one. i guess i have the 10x mentality but the 0.1x execution — working on it
 
-anyways here's my socials if you'd like to get in touch:
+if you got to this point despite the em dashes (which i did plant, because come on who can't be bothered to write their own readme) then you **must** have my socials and get in touch:
 
 ---
 shahzainarshad06@gmail[]().com - email
